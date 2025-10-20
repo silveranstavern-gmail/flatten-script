@@ -171,13 +171,13 @@ my-project - 2.5 MB
 ```
 
 2. **File Contents** - Each file wrapped in markdown code blocks:
-```
+````
 --- FILE: src/index.js ---
 ```javascript
 // Your code here
 ```
 --- END FILE: src/index.js ---
-```
+````
 
 ## Tips & Best Practices
 
@@ -233,7 +233,7 @@ Contributions are welcome! This is a simple, dependency-free tool that should st
 
 ## License
 
-Public Domain
+Public Domain/The Unlicense
 
 ## Author
 
