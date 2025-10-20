@@ -1,0 +1,13 @@
+# Home + blog search coverage with selected posts
+++ ../astro/astro-pondering-silver/src/pages/index.astro
+++ ../astro/astro-pondering-silver/src/pages/blog/index.astro
+++ ../astro/astro-pondering-silver/src/pages/blog/[slug].astro
+++ ../astro/astro-pondering-silver/src/scripts/search.js
+++ ../astro/astro-pondering-silver/src/content.config.ts
+++ ../astro/astro-pondering-silver/src/content/blog/manifestation-beyond-visualization.md
+++ ../astro/astro-pondering-silver/src/content/blog/reflections-in-a-mirror-2025-02-22.md
+++ ../astro/astro-pondering-silver/src/content/blog/the-infinite-inch.md
+++ ../astro/astro-pondering-silver/src/layouts/SiteLayout.astro
+++ ../astro/astro-pondering-silver/src/layouts/BlogPost.astro
+++ ../astro/astro-pondering-silver/src/components/FormattedDate.astro
+++ ../astro/astro-pondering-silver/src/consts.ts
